@@ -5,8 +5,8 @@ Written as a learning exercise. Uses [OAuth2orize](https://github.com/jaredhanso
 
 Start the server and client web apps with:
 
-* {{{node server.js}}}
-* {{{node client.js}}}
+* `node server.js`
+* `node client.js`
 
 The server runs on port 3000 and the client runs on port 3001.
 
